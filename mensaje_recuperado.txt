@@ -1,0 +1,3 @@
+Lote: WC-2023-CAB-047 Cabernet 2023. Este es un mensaje de prueba para validar
+el cifrado y descifrado AES-256 en modo CBC usando PyCryptodome. Fundamentos
+de Blockchain - BCY0010.
